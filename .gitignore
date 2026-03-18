@@ -1,0 +1,2 @@
+node_modules
+.env // becaues it contains all the api keys nad port numbers
