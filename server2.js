@@ -7,7 +7,6 @@ const users=[
     {"id":3 , name:'ram'},
     {"id":4 , name:'gopal'}
 ]
-
 const server=createServer((req,res)=>{
 
     if(req.url ==='/api/users' && req.method==='GET')
